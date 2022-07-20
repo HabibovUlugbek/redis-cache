@@ -1,0 +1,9 @@
+/node_modules/*
+.env
+/backup/*
+coverage/*
+*.log
+.idea/*
+build/
+tmp/
+temp/
